@@ -2,4 +2,4 @@
 
 A bounded SPARK reference counting model.
 
-Run \ for executable tests and \ for GNATprove level 2 with cvc5.
+Run make test for executable tests and make prove for GNATprove level 2 with cvc5.
